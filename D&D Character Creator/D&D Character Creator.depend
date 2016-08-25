@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1471838449 source:d:\projects\d&d character creator\main.cpp
+	<iostream>
+	<cstdio>
+	<cstdlib>
+	<time.h>
+
